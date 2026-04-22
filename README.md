@@ -3,7 +3,7 @@
 # Olá, I'm Luiz! 👋🇧🇷
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-breda-8322b6295/)
-
+[![Portfolio](https://img.shields.io/badge/-Portfolio-7F77DD?style=flat&logo=vercel&logoColor=white)](https://luiz-portifolio-tau.vercel.app)
 </div>
 
 I'm a junior at Washburn University studying Entrepreneurship (with a Data Analytics minor) — born in Maceió, Brazil 🌴, now building things in Topeka, Kansas.
