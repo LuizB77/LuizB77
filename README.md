@@ -2,7 +2,7 @@
 
 # Olá, I'm Luiz! 👋🇧🇷
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/luiz-breda-8322b6295/])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-breda-8322b6295/)
 
 </div>
 
