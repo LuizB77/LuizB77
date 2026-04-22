@@ -30,7 +30,7 @@ A full React portfolio of 7 deployed apps, from an NBA stats dashboard to a coll
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LuizB77&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=LuizB77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=false)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizB77&layout=compact&theme=tokyonight&hide_border=true)
 
